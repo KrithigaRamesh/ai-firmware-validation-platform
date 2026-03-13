@@ -1,0 +1,7 @@
+temperature,voltage,status
+25,3.3,OK
+26,3.2,OK
+27,3.3,OK
+48,3.3,HIGH_TEMP
+25,3.3,OK
+60,3.1,CRITICAL
